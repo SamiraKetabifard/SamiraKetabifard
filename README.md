@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samira Ketabifard</h1>
+<h1 align="center">Samira Ketabifard</h1>
 
 <p align="left">
 </p>
